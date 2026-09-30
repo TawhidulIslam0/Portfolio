@@ -210,7 +210,7 @@ function App() {
 
             <p className="hero-text">
               I'm Tawhidul — a full-stack developer focused on AI-powered
-              products, resilient backends, and thoughtful user experiences.
+              products,frontend development, resilient backends, and thoughtful user experiences.
             </p>
 
             <div className="hero-actions">
@@ -268,7 +268,7 @@ function App() {
                 <span className="code-string">"Frontend Development"</span>,
                 {"\n    "}
                 <span className="code-string">"Backend Systems"</span>,{"\n    "}
-                <span className="code-string">"AI / ML"</span>,{"\n    "}
+                <span className="code-string">"AI/ML"</span>,{"\n    "}
                 <span className="code-string">"Cloud Architecture"</span>
                 {"\n  "}],{"\n  "}ships:{" "}
                 <span className="code-number">true</span>
@@ -511,7 +511,7 @@ function App() {
           <h2>Have a problem worth solving?</h2>
 
           <p>
-            I'm always interested in ambitious software, AI, and backend
+            I'm always interested in ambitious software, AI, frontend and backend
             engineering work.
           </p>
 
