@@ -1,23 +1,23 @@
 # Tawhidul Islam — Portfolio
 
-A dark, modern portfolio built with React, TypeScript, Vite, and Lucide React.
+Personal portfolio website showcasing my software engineering projects, technical skills, and experience.
 
-## Run locally
+🌐 **Live Portfolio:** https://tawhidulislamportfolio.vercel.app/
 
-```bash
-npm install
-npm run dev
-```
+## Tech Stack
 
-## Build
+- React
+- TypeScript
+- Vite
+- CSS
+- Vercel
 
-```bash
-npm run build
-```
+## Features
 
-## Customize
-
-- Replace `public/resume.pdf` with the latest resume.
-- Add project screenshots under `public/` and reference them from `src/App.tsx`.
-- Replace placeholder GitHub links for Journey and the notification engine with the exact repositories when available.
-- Add a profile image if desired.
+- Responsive portfolio design
+- Light and dark mode
+- Project showcase
+- Technical skills overview
+- Professional experience
+- Resume access
+- GitHub and LinkedIn links
